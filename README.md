@@ -1,4 +1,4 @@
-# Pagas para desenvolvedores na PayGo
+# Vagas para desenvolvedores na PayGo
 
 
 
