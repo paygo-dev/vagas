@@ -16,7 +16,7 @@
 
 Você fará parte do time de Tecnologia, dentro de uma **squad multidisciplinar**, ajudando, apoiando e sugerindo novas tecnlogias que resolucione de fato o problema do nosso cliente.
 
-Como **techlead**, você fará parte do time que garantirá a estrutura, eficácia e sucesso da equipe mobile da PayGo.
+Como **tech lead**, você fará parte do time que garantirá a estrutura, eficácia e sucesso da equipe mobile da PayGo.
 
 Algumas das principais atividades dessa oportunidade são:
 
